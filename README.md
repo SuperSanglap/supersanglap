@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanglap</h1>
-<h3 align="center">First a Programmer then a Musician.</h3>
+<h3 align="center">Building Businesses along with convenience and fun materials.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supersanglap&label=Profile%20views&color=0e75b6&style=flat" alt="supersanglap" /> </p>
 
-- 🔭 I’m currently working on **Tasksistor**
+- 🔭 I’m currently working on **CozzoN**
 
-- 🌱 I’m currently learning **Django Rest Framework, React**
+- 🌱 I’m currently learning **Business Strategies**
 
 - 👨‍💻 All of my projects are available at [https://supersanglap.github.io/Portfolio](https://supersanglap.github.io/Portfolio)
 
